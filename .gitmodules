@@ -1,3 +1,6 @@
 [submodule "DS3000-Practicum1"]
 	path = DS3000-Practicum1
 	url = https://github.com/GauriRajesh733/DS3000-Practicum1.git
+[submodule "DS3000-Practicum2"]
+	path = DS3000-Practicum2
+	url = https://github.com/GauriRajesh733/DS3000-Practicum2.git
